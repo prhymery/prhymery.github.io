@@ -22,6 +22,3 @@ package-lock.json
 
 ## sample posting
 _posts/sample
-
-# avoid build error
-Gemfile.lock
