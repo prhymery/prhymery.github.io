@@ -19,9 +19,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: cj's study space                          # the main title
+title: 나의 삽질일지                          # the main title
 
-tagline: Came from the bottom to the top   # it will display as the sub-title
+tagline: 같은 삽질을 반복하지 않기 위해   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
