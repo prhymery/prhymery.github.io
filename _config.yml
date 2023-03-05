@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: 나의 삽질일지                          # the main title
 
-tagline: 같은 삽질을 반복하지 않기 위해   # it will display as the sub-title
+tagline: 인간의 개발은 끝이 없고 같은 삽질을 반복한다   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
