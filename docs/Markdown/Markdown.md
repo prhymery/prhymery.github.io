@@ -2,7 +2,7 @@
 layout: default
 title: Markdown
 nav_order: 1
-permalink: docs/markdown
+permalink: docs/Markdown
 ---
 
 # Markdown
@@ -40,9 +40,9 @@ permalink: docs/markdown
 
 footnote[^footnote], another footnote[^fn2]
 
-[This Page](https://prhymery.github.io/posts/Markdown/)
+[This Page](/docs/Markdown)
 
-<https://prhymery.github.io/posts/Markdown/>
+<https://prhymery.github.io/docs/Markdown>
 
 [^footnote]: The footnote source
 [^fn2]: The 2nd footnote source
@@ -60,9 +60,9 @@ footnote[^footnote], another footnote[^fn2]
 
 footnote[^footnote], another footnote[^fn2]
 
-[This Page](https://prhymery.github.io/posts/Markdown/)
+[This Page](/docs/Markdown)
 
-<https://prhymery.github.io/posts/Markdown/>
+<https://prhymery.github.io/docs/Markdown>
 
 [^footnote]: The footnote source
 [^fn2]: The 2nd footnote source
@@ -98,7 +98,7 @@ footnote[^footnote], another footnote[^fn2]
 #### Toggle
 
 <details open><summary>open</summary><div markdown="1">
- 1. [markdown](https://prhymery.github.io/posts/Markdown/) <br>
+ 1. [Markdown](https://prhymery.github.io/docs/Markdown) <br>
 toggle end
   </div></details>
 
@@ -123,7 +123,7 @@ toggle end
 
 #### Toggle
 <details open><summary>open</summary><div markdown="1">
- 1. [markdown](https://prhymery.github.io/posts/Markdown/) <br>
+ 1. [Markdown](https://prhymery.github.io/docs/Markdown) <br>
 toggle end
   </div></details>
 ```
