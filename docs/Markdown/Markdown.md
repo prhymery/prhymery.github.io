@@ -97,7 +97,12 @@ footnote[^footnote], another footnote[^fn2]
 
 #### Toggle
 
-<details open><summary>open</summary><div markdown="1">
+<details open><summary>opened toggle</summary><div markdown="1">
+ 1. [Markdown](https://prhymery.github.io/docs/Markdown) <br>
+toggle end
+  </div></details>
+
+<details close><summary>closed toggle</summary><div markdown="1">
  1. [Markdown](https://prhymery.github.io/docs/Markdown) <br>
 toggle end
   </div></details>
@@ -122,7 +127,13 @@ toggle end
 : This is Description about Description
 
 #### Toggle
-<details open><summary>open</summary><div markdown="1">
+
+<details open><summary>opened toggle</summary><div markdown="1">
+ 1. [Markdown](https://prhymery.github.io/docs/Markdown) <br>
+toggle end
+  </div></details>
+
+<details close><summary>closed toggle</summary><div markdown="1">
  1. [Markdown](https://prhymery.github.io/docs/Markdown) <br>
 toggle end
   </div></details>
@@ -200,7 +211,7 @@ _Unity/Project Settings/Player/API Compatibility Level_
 ### Code
 
 ```html
-![img-description](/assets/img/UnityAPICompatibilityLevel.png)
+![img-description](/assets/images/DotNET/UnityAPICompatibilityLevel.png)
 _Unity/Project Settings/Player/API Compatibility Level_
 {: .text-center }   // 가운데 정렬
 ```
