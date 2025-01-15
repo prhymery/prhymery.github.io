@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOLID Principle
+title: SOLID Principles
 parent: Computer Science
 nav_order: 1
 ---
