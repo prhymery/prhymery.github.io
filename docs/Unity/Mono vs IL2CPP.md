@@ -5,7 +5,7 @@ parent: Unity
 nav_order: 1
 ---
 
-# Mono vs IL2CPP
+# <b>Mono vs IL2CPP</b>
 {: .no_toc }
 
 ---

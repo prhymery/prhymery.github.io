@@ -5,7 +5,7 @@ parent: Computer Science
 has_children: true
 ---
 
-# Network
+# <b>Network</b>
 {: .no_toc }
 
 - TOC

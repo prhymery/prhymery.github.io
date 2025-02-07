@@ -2,10 +2,10 @@
 layout: default
 title: SOLID Principles
 parent: Computer Science
-nav_order: 1
+nav_order: 2
 ---
 
-# SOLID Principle
+# <b>SOLID Principle</b>
 {: .no_toc }
 
 ---

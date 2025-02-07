@@ -5,7 +5,7 @@ parent: Unity
 nav_order: 1
 ---
 
-# Memory in Unity
+# <b>Memory in Unity</b>
 {: .no_toc }
 
 ---

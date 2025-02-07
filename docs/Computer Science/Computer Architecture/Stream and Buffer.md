@@ -6,8 +6,6 @@ grand_parent: Computer Science
 nav_order: 1
 ---
 
-# Serialize vs Deserialize
-{: .no_toc }
 
 ---
 스트리밍 관련해서 궁금해서 한 번 정리해보았습니다.

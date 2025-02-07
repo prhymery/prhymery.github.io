@@ -5,7 +5,7 @@ nav_order: 1
 permalink: docs/Markdown
 ---
 
-# Markdown
+# <b>Markdown</b>
 {: .no_toc }
 
 블로그를 시작하면서 필요한 markdown 문법을 간단히 정리해보았습니다<br>

@@ -5,7 +5,7 @@ parent: Computer Science
 has_children: true
 ---
 
-# Computer Architecture
+# <b>Computer Architecture</b>
 {: .no_toc }
 
 - TOC

@@ -2,11 +2,16 @@
 layout: default
 title: Abstract classes vs Interfaces
 parent: Computer Science
-nav_order: 1
+nav_order: 3
 ---
 
-# Abstract classes vs Interfaces
+# <b>Abstract classes vs Interfaces</b>
+{: .no_toc }
 
+---
+용도에 대해 자주 헷갈리는 추상클래스와 인터페이스를 정리해보았습니다.
+- TOC
+{:toc}
 ## Abstract classes
 
 단독으로 생성될 수 없고 다른 클래스에 상속하기 위한 클래스입니다.<br>

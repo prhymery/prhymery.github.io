@@ -5,7 +5,7 @@ parent: Unity
 nav_order: 1
 ---
 
-# MonoBehaviour
+# <b>MonoBehaviour</b>
 {: .no_toc }
 
 ---

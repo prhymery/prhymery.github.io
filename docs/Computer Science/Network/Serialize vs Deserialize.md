@@ -6,7 +6,7 @@ grand_parent: Computer Science
 nav_order: 1
 ---
 
-# Serialize vs Deserialize
+# <b>Serialize vs Deserialize</b>
 {: .no_toc }
 
 ---
