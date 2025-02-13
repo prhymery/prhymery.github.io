@@ -2,7 +2,6 @@
 layout: default
 title: Serialize vs Deserialize
 parent: Network
-grand_parent: Computer Science
 nav_order: 1
 ---
 

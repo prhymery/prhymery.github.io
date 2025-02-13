@@ -2,7 +2,6 @@
 layout: default
 title: WebSocket
 parent: Network
-grand_parent: Computer Science
 nav_order: 1
 ---
 
