@@ -5,8 +5,10 @@ nav_order: 1
 permalink: docs/Markdown
 ---
 
-# <b>Markdown</b>
-{: .no_toc }
+---
+- TOC
+{:toc}
+---
 
 블로그를 시작하면서 필요한 markdown 문법을 간단히 정리해보았습니다<br>
 추후 다른 기능이 필요하면 해당 기능에 대해 찾아서 내용을 추가할 예정입니다
@@ -44,6 +46,8 @@ footnote[^footnote], another footnote[^fn2]
 
 <https://prhymery.github.io/docs/Markdown>
 
+[구글](<https://google.com>)
+
 [^footnote]: The footnote source
 [^fn2]: The 2nd footnote source
 
@@ -63,6 +67,8 @@ footnote[^footnote], another footnote[^fn2]
 [This Page](/docs/Markdown)
 
 <https://prhymery.github.io/docs/Markdown>
+
+[구글](<https://google.com>)
 
 [^footnote]: The footnote source
 [^fn2]: The 2nd footnote source
