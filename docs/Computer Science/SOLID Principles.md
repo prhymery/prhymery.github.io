@@ -5,7 +5,6 @@ parent: Computer Science
 nav_order: 2
 ---
 
-# <b>SOLID Principle</b>
 {: .no_toc }
 
 ---

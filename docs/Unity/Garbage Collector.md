@@ -5,7 +5,6 @@ parent: Unity
 nav_order: 1
 ---
 
-# <b>Garbage Collector</b>
 {: .no_toc }
 
 ---
